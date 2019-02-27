@@ -1,2 +1,3 @@
 # Vision-start
-the original vision at the start
+the second vision
+adding something about the changes
